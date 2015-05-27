@@ -5,4 +5,4 @@
 ЦЅлок схема на платката Ц ƒа се ползва UML стандарта
 ЦLow Level Design на кода(Ѕлок схема) Ц ƒа се ползва UML стандарта
 -«адание ( Requirements )
-ЦPCB, Schematic, Breadboard Project (Fritzing или Eagle)
+Ц¬ълко - PCB, Schematic, Breadboard Project (Fritzing или Eagle)
