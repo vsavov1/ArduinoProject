@@ -1,8 +1,9 @@
-–Веселин- Начална идея и подобрения след Brainstorming
-–Веселин- Source code (Arduino или Visual Micro plugin)
-–Веселин- Снимки на сглобения прототип
-
-–Блок схема на платката – Да се ползва UML стандарта
-–Low Level Design на кода(Блок схема) – Да се ползва UML стандарта
--Задание ( Requirements )
+–Веселин - Начална идея и подобрения след Brainstorming
+–Веселин - Source code (Arduino или Visual Micro plugin)
+–Веселин - Снимки на сглобения прототип
+-Веселин - Документация
+-Веселин - Лого
+-Веселин - Задание ( Requirements )
+–Симеон - Блок схема на платката – Да се ползва UML стандарта
+–Кристиан - Low Level Design на кода(Блок схема) – Да се ползва UML стандарта
 –Вълко - PCB, Schematic, Breadboard Project (Fritzing или Eagle)

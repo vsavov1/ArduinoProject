@@ -91,7 +91,7 @@ void TimeUpdate(void)
 void stopwatchStart()
 {
   Flag_ReadTime = 0;
-//  TCCR1B = Timer1.clockSelectBits; 
+  TCCR1B = Timer1.clockSelectBits; 
 }
 
 void stopwatchPause()
